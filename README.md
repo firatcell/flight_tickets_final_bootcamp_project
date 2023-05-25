@@ -1,6 +1,7 @@
 # Airline tickets project
 The data was downloaded from Kaggle posted by Barking Data an online web data mining provider.<br />
-https://www.kaggle.com/datasets/polartech/flight-data-with-1-million-or-more-records/discussion?resource=download<br />
+Data source: https://www.kaggle.com/datasets/polartech/flight-data-with-1-million-or-more-records/discussion?resource=download<br />
+Tableau: https://public.tableau.com/app/profile/firat6571/viz/Final_Bootcamp_Project/Modelling?publish=yes<br />
 
 ## Objectives
 Find what determines price.<br />
